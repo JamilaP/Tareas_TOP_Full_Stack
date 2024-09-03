@@ -1,5 +1,5 @@
 # Tareas_TOP_Full_Stack
-Ramas:
+Carpetas:
 1. SCRUM
 2. Javascript Functions
 3. HTML-CSS
